@@ -1,7 +1,6 @@
 # Run FMUs in the Cloud
 
 The Jupyter notebook in this repository demonstrates how to experiment with FMUs in the Cloud using Google Colab.
-For this example we use `Modelica.Thermal.FluidHeatFlow.Examples.SimpleCooling` from the Modelica Standard Library exported with Dymola 2021.
 
 ## Getting started
 
